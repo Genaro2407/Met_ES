@@ -5,7 +5,7 @@ Hoy es la clase numero 1, creamos nuestro primer repositorio
 
 Clase 1, 07/Agosto/2023
 
-#Actividad 2 configurar Github, crear proyecto
+# Actividad 2 configurar Github, crear proyecto
 
 #Objetivo
 
