@@ -14,3 +14,9 @@ Clase 1, 07/Agosto/2023
 + :dart: Crear un proyecto clonando el repositorio de Github.
 
 + :dart: Realizar la primera sincronizacion del proyecto y la nube (Github).
+
+# Actividad 3 Hipotesis
+
+15/08/23
+
++ :dart: hoy vimos lo que es la hipotesis, teniendo dos tipos, la nula y la alternativa
