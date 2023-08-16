@@ -20,3 +20,5 @@ Clase 1, 07/Agosto/2023
 15/08/23
 
 + :dart: hoy vimos lo que es la hipotesis, teniendo dos tipos, la nula y la alternativa
+
++ :dart: Intento de actualizar
