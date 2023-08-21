@@ -7,7 +7,7 @@ Clase 1, 07/Agosto/2023
 
 # Actividad 2 configurar Github, crear proyecto
 
-# Objetivo
+#Objetivo
 
 Clase 2, 08/Agosto/23
 
@@ -28,4 +28,3 @@ Clase 3, 15/Agosto/23
 Clase 4, 21/Agosto/23
 
 + :dart: Hay dos tipos de muestras, las dependientes y las independientes, a su vez, estas se dividen en otras dos, experimentales y teoricas
-
