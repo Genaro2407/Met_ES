@@ -7,7 +7,9 @@ Clase 1, 07/Agosto/2023
 
 # Actividad 2 configurar Github, crear proyecto
 
-#Objetivo
+# Objetivo
+
+Clase 2, 08/Agosto/23
 
 + :dart: Configurar el nimbre de usuario y correo electronico en la cuenta de Git.
 
@@ -17,6 +19,13 @@ Clase 1, 07/Agosto/2023
 
 # Actividad 3 Hipotesis
 
-15/08/23
+Clase 3, 15/Agosto/23
 
 + :dart: hoy vimos lo que es la hipotesis, teniendo dos tipos, la nula y la alternativa
+
+# Actividad 4 
+
+Clase 4, 21/Agosto/23
+
++ :dart: Hay dos tipos de muestras, las dependientes y las independientes, a su vez, estas se dividen en otras dos, experimentales y teoricas
+
