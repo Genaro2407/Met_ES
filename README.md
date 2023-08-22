@@ -21,10 +21,18 @@ Clase 2, 08/Agosto/23
 
 Clase 3, 15/Agosto/23
 
-+ :dart: hoy vimos lo que es la hipotesis, teniendo dos tipos, la nula y la alternativa
++ :dart: Hoy vimos lo que es la hipotesis, teniendo dos tipos, la nula y la alternativa
 
 # Actividad 4 
 
 Clase 4, 21/Agosto/23
 
 + :dart: Hay dos tipos de muestras, las dependientes y las independientes, a su vez, estas se dividen en otras dos, experimentales y teoricas
+
+# Activiad 5
+
+Clase 5, 22/Agosto/23
+
++ :dart: Hoy aprendimos a realizar diferentes funciones de R
+
++ :dart: Aprendimos a compilar reporte
