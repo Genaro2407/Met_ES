@@ -36,3 +36,9 @@ Clase 5, 22/Agosto/23
 + :dart: Hoy aprendimos a realizar diferentes funciones de R
 
 + :dart: Aprendimos a compilar reporte
+
+# Actividad 6
+
+Clase 6, 28/Agosto/2023
+
++ :dart: Comparamos datos de plantas fertilizadas y controladas, y sacamos las medidas de dispercion y tendencia central
