@@ -48,5 +48,3 @@ Clase 6, 28/Agosto/2023
 Clase 7, 29/Agosto/2023
 
 + :dart: Realizamos nuevamente la hipotesis, con la finalidad de mejorar nuestra habilidad para generar hipotesis
-
-+ :dart: 
