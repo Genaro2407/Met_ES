@@ -42,3 +42,11 @@ Clase 5, 22/Agosto/23
 Clase 6, 28/Agosto/2023
 
 + :dart: Comparamos datos de plantas fertilizadas y controladas, y sacamos las medidas de dispercion y tendencia central
+
+# Actividad 7
+
+Clase 7, 29/Agosto/2023
+
++ :dart: Realizamos nuevamente la hipotesis, con la finalidad de mejorar nuestra habilidad para generar hipotesis
+
++ :dart: 
