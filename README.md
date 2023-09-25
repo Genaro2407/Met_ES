@@ -48,3 +48,15 @@ Clase 6, 28/Agosto/2023
 Clase 7, 29/Agosto/2023
 
 + :dart: Realizamos nuevamente la hipotesis, con la finalidad de mejorar nuestra habilidad para generar hipotesis
+
+# Actividad 8
+
+Clase 8, 05/Septiembre/2023
+
++ :dart: Realizamos una actividad que consistia en comparar el crecimiento del diametro de algunos arboles en los cuales se uso un fertilizante
+
+# Actividad 9
+
+Clase 9, 25/Septiembre/2023
+
++ :dart:
