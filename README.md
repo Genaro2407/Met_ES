@@ -60,3 +60,25 @@ Clase 8, 05/Septiembre/2023
 Clase 9, 25/Septiembre/2023
 
 + :dart: Aprendimos a realizar la correlacion entre un grupo de datos
+
+# Actividad 10
+
+Clase 10, 02/Octubre/2023
+
++ :dart: Hoy se realizo un ejercicio de correlacion
+
+# Actividad 11
+
+Clase 11, 09/Octubre/2023
+
++ :dart: ŷ = α + β (x) Esto es el intercepto
+
++ :dart:  Alfa(α) y beta(β) siempre deben ser significativos
+
++ :dart: Siempre hay que revisar el valor de R ajustada "Adjusted R-squared"
+
++ :dart: lm = modelo lineal
+
++ :dart: Abline sirve para desplegar la linea de tendencia central
+
++ :dart: el rango de los valores de x son mi ventana de preiccion de yprima
