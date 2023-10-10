@@ -83,4 +83,4 @@ Clase 11, 09/Octubre/2023
 
 + :dart: Abline sirve para desplegar la linea de tendencia central
 
-+ :dart: el rango de los valores de x son mi ventana de preiccion de yprima
++ :dart: El rango de los valores de x son mi ventana de preiccion de yprima
