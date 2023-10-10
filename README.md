@@ -84,3 +84,13 @@ Clase 11, 09/Octubre/2023
 + :dart: Abline sirve para desplegar la linea de tendencia central
 
 + :dart: El rango de los valores de x son mi ventana de preiccion de yprima
+
+# Actividad 12
+
+Clase 12, 10/Octubre/2023
+
++ :dart: normalidad = shapiro.wilkls
+
++ :dart: varianzas homogeneas = var.test
+
++ :dart: Realizamos una actividad sobre el análisis de varianza
