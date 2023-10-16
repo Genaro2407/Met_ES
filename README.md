@@ -94,3 +94,9 @@ Clase 12, 10/Octubre/2023
 + :dart: varianzas homogeneas = var.test
 
 + :dart: Realizamos una actividad sobre el análisis de varianza
+
+# Actividad 13
+
+Clase 13, 16/Octubre/2023
+
++ :dart: Hoy fuimos al laboratorio de tecnologia de la madera, nos dio inspiracion para tomar datos para nuestro PIA
