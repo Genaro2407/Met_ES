@@ -106,3 +106,4 @@ Clase 13, 16/Octubre/2023
 Clase 14, 28/Noviembre/2023
 
 + :dart: Intentamos realizar el PIA, fracasando en el intento
++ :dart: Se intento realizar el PIA por segunda vez, teniendo exito en esta ocasión
