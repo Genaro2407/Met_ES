@@ -100,3 +100,9 @@ Clase 12, 10/Octubre/2023
 Clase 13, 16/Octubre/2023
 
 + :dart: Hoy fuimos al laboratorio de tecnologia de la madera, nos dio inspiracion para tomar datos para nuestro PIA
+
+#Actividad 14
+
+Clase 14, 28/Noviembre/2023
+
++ :dart: Intentamos realizar el PIA, fracasando en el intento
