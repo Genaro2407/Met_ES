@@ -107,3 +107,9 @@ Clase 14, 28/Noviembre/2023
 
 + :dart: Intentamos realizar el PIA, fracasando en el intento
 + :dart: Se intento realizar el PIA por segunda vez, teniendo exito en esta ocasión
+
+# Actividad 15
+
+Clase 15, 29/Noviembre/2023
+
++ :dart: Hoy realizamos el examen final, estuvo bastante complicado

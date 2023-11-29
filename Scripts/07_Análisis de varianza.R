@@ -46,3 +46,4 @@ boxplot(DAP$raiz ~ DAP$Paraje, ylab = "Raíz", xlab = "Paraje", main = "Boxplot"
 
 TukeyHSD(dap.aov)
 plot(TukeyHSD(dap.aov))
+
