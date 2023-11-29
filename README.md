@@ -113,3 +113,5 @@ Clase 14, 28/Noviembre/2023
 Clase 15, 29/Noviembre/2023
 
 + :dart: Hoy realizamos el examen final, estuvo bastante complicado
+
+![image](https://github.com/Genaro2407/Met_ES/assets/141651578/6c4846df-75ec-434d-80bf-58fcb4a7689c)
